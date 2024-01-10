@@ -1,13 +1,6 @@
-//
-//  ViewController.swift
-//  SwiftChat
-//
-//  Created by Kanav Goyal on 10/01/24.
-//
-
 import UIKit
 
-class ViewController: UIViewController {
+class ConversationsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

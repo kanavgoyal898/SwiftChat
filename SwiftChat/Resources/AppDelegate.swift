@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  SwiftChat
-//
-//  Created by Kanav Goyal on 10/01/24.
-//
-
 import UIKit
 
 @main

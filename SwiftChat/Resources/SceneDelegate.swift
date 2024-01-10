@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  SwiftChat
-//
-//  Created by Kanav Goyal on 10/01/24.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {

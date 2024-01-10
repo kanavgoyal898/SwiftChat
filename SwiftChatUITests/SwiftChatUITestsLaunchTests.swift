@@ -1,10 +1,3 @@
-//
-//  SwiftChatUITestsLaunchTests.swift
-//  SwiftChatUITests
-//
-//  Created by Kanav Goyal on 10/01/24.
-//
-
 import XCTest
 
 final class SwiftChatUITestsLaunchTests: XCTestCase {
